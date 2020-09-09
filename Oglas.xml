@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Oglas SYSTEM "Oglas.dtd">
+<?xml-stylesheet type ="text/xsl" href ="adresar.xslt"?>
+<Oglas>
+  <Kategorija></Kategorija>
+  <DatumIsteka></DatumIsteka>
+  <Cena></Cena>
+  <Tekst></Tekst>
+  <Tag></Tag>
+  <Email></Email>
+  </Oglas>
